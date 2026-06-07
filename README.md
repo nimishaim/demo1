@@ -1,4 +1,4 @@
 # demo1
 my demo git repository
 <br>
-author - nimisha i m
+author - nimisha i m(college)
